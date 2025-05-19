@@ -1,5 +1,5 @@
 # Exno.6-Prompt-Engg
-## Name : Gokula Priya O 
+## Name : Gokula Priya P
 ## Register no: 212222040044
 ## Aim: 
 Development of Python Code Compatible with Multiple AI Tools
