@@ -1,4 +1,4 @@
-### Exno.6-Prompt-Engg
+# Exno.6-Prompt-Engg
 ## Name : Gokula Priya P
 ## Register no: 212222040044
 ## Aim: 
